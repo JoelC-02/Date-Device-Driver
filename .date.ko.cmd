@@ -1,0 +1,1 @@
+cmd_/home/joelc/CN/date_driver/date.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/joelc/CN/date_driver/date.ko /home/joelc/CN/date_driver/date.o /home/joelc/CN/date_driver/date.mod.o;  true
